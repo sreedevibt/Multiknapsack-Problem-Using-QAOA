@@ -192,6 +192,9 @@ pip install qat-lang qat-core
 
 The implementation leverages the integration between PyQUBO's problem formulation capabilities and QAT's quantum simulation environment, with the myQLM providing additional tools for performance analysis.
 
+## Poster Link
+- https://qr-codes.io/ErHtBe
+
 ## References
 
 1. Farhi, E., Goldstone, J., & Gutmann, S. (2014). A quantum approximate optimization algorithm. *arXiv preprint arXiv:1411.4028*.
