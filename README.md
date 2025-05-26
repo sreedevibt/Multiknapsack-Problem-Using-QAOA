@@ -193,7 +193,7 @@ pip install qat-lang qat-core
 The implementation leverages the integration between PyQUBO's problem formulation capabilities and QAT's quantum simulation environment, with the myQLM providing additional tools for performance analysis.
 
 ## Poster Link
-- https://qr-codes.io/ErHtBe
+- https://drive.google.com/file/d/1cozpebO5VdPF9aW04-YJ0K4QQvgWfn4R/view?usp=sharing
 
 ## References
 
